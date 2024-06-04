@@ -1,0 +1,276 @@
+--------------------------------------------------------
+ROUND1
+--------------------------------------------------------
+DEALER 1 DRAWS TARGET CARD: 7
+DEALER 1 DEALS a 2 TO PLAYER2
+DEALER 1 DEALS a 5 TO PLAYER3
+DEALER 1 DEALS a 11 TO PLAYER4
+DEALER 1 DEALS a 4 TO PLAYER5
+DEALER 1 DEALS a 1 TO PLAYER6
+DEALER 1 DEALS a 1 TO PLAYER1
+
+Player 2 draws a 5
+Player 2 Hand: <2, 5>
+Player 2 discards card: 2
+Player 2 Hand: <5>
+4 11 6 8 13 3 12 12 13 10 9 4 1 5 13 2 9 7 8 5 6 8 2 10 1 13 12 11 10 6 7 12 4 3 6 3 10 11 9 2 8 3 7 9 2 
+
+Player 3 draws a 4
+Player 3 Hand: <5, 4>
+Player 3 discards card: 5
+Player 3 Hand: <4>
+11 6 8 13 3 12 12 13 10 9 4 1 5 13 2 9 7 8 5 6 8 2 10 1 13 12 11 10 6 7 12 4 3 6 3 10 11 9 2 8 3 7 9 2 5 
+
+Player 4 draws a 11
+Player 4 Hand: <11, 11>
+Player 4 discards card: 11
+Player 4 Hand: <11>
+6 8 13 3 12 12 13 10 9 4 1 5 13 2 9 7 8 5 6 8 2 10 1 13 12 11 10 6 7 12 4 3 6 3 10 11 9 2 8 3 7 9 2 5 11 
+
+Player 5 draws a 6
+Player 5 Hand: <4, 6>
+Player 5 discards card: 6
+Player 5 Hand: <4>
+8 13 3 12 12 13 10 9 4 1 5 13 2 9 7 8 5 6 8 2 10 1 13 12 11 10 6 7 12 4 3 6 3 10 11 9 2 8 3 7 9 2 5 11 6 
+
+Player 6 draws a 8
+Player 6 Hand: <1, 8>
+Player 6 discards card: 8
+Player 6 Hand: <1>
+13 3 12 12 13 10 9 4 1 5 13 2 9 7 8 5 6 8 2 10 1 13 12 11 10 6 7 12 4 3 6 3 10 11 9 2 8 3 7 9 2 5 11 6 8 
+
+Player 1 draws a 13
+Player 1 Hand: <1, 13>
+Player 1 discards card: 1
+Player 1 Hand: <13>
+3 12 12 13 10 9 4 1 5 13 2 9 7 8 5 6 8 2 10 1 13 12 11 10 6 7 12 4 3 6 3 10 11 9 2 8 3 7 9 2 5 11 6 8 1 
+Player 1 lost round 1
+Player 2 lost round 1
+Player 3 lost round 1
+Player 4 lost round 1
+Player 5 lost round 1
+Player 6 lost round 1
+--------------------------------------------------------
+ROUND2
+--------------------------------------------------------
+DEALER 2 DRAWS TARGET CARD: 7
+DEALER 2 DEALS a 4 TO PLAYER3
+DEALER 2 DEALS a 1 TO PLAYER4
+DEALER 2 DEALS a 8 TO PLAYER5
+DEALER 2 DEALS a 10 TO PLAYER6
+DEALER 2 DEALS a 5 TO PLAYER1
+DEALER 2 DEALS a 2 TO PLAYER2
+
+Player 3 draws a 10
+Player 3 Hand: <4, 10>
+Player 3 discards card: 10
+Player 3 Hand: <4>
+1 12 8 13 7 6 5 3 11 3 13 6 4 5 2 9 1 2 12 10 5 8 9 6 8 4 2 8 12 3 13 9 10 11 1 11 6 13 3 11 12 9 7 6 10 
+
+Player 4 draws a 1
+Player 4 Hand: <1, 1>
+Player 4 discards card: 1
+Player 4 Hand: <1>
+12 8 13 7 6 5 3 11 3 13 6 4 5 2 9 1 2 12 10 5 8 9 6 8 4 2 8 12 3 13 9 10 11 1 11 6 13 3 11 12 9 7 6 10 1 
+
+Player 5 draws a 12
+Player 5 Hand: <8, 12>
+Player 5 discards card: 8
+Player 5 Hand: <12>
+8 13 7 6 5 3 11 3 13 6 4 5 2 9 1 2 12 10 5 8 9 6 8 4 2 8 12 3 13 9 10 11 1 11 6 13 3 11 12 9 7 6 10 1 8 
+
+Player 6 draws a 8
+Player 6 Hand: <10, 8>
+Player 6 discards card: 10
+Player 6 Hand: <8>
+13 7 6 5 3 11 3 13 6 4 5 2 9 1 2 12 10 5 8 9 6 8 4 2 8 12 3 13 9 10 11 1 11 6 13 3 11 12 9 7 6 10 1 8 10 
+
+Player 1 draws a 13
+Player 1 Hand: <5, 13>
+Player 1 discards card: 5
+Player 1 Hand: <13>
+7 6 5 3 11 3 13 6 4 5 2 9 1 2 12 10 5 8 9 6 8 4 2 8 12 3 13 9 10 11 1 11 6 13 3 11 12 9 7 6 10 1 8 10 5 
+
+Player 2 draws a 7
+Player 2 Hand: <2, 7>
+Player 2 wins round 2 with matching card 7
+
+Player 1 lost round 2
+Player 3 lost round 2
+Player 4 lost round 2
+Player 5 lost round 2
+Player 6 lost round 2
+--------------------------------------------------------
+ROUND3
+--------------------------------------------------------
+DEALER 3 DRAWS TARGET CARD: 13
+DEALER 3 DEALS a 6 TO PLAYER4
+DEALER 3 DEALS a 2 TO PLAYER5
+DEALER 3 DEALS a 12 TO PLAYER6
+DEALER 3 DEALS a 7 TO PLAYER1
+DEALER 3 DEALS a 5 TO PLAYER2
+DEALER 3 DEALS a 5 TO PLAYER3
+
+Player 4 draws a 9
+Player 4 Hand: <6, 9>
+Player 4 discards card: 9
+Player 4 Hand: <6>
+5 5 8 1 12 1 6 9 8 12 1 3 8 6 10 6 10 7 10 13 13 2 10 3 3 4 2 8 8 11 4 9 12 1 11 3 2 5 9 11 6 10 13 11 9 
+
+Player 5 draws a 5
+Player 5 Hand: <2, 5>
+Player 5 discards card: 5
+Player 5 Hand: <2>
+5 8 1 12 1 6 9 8 12 1 3 8 6 10 6 10 7 10 13 13 2 10 3 3 4 2 8 8 11 4 9 12 1 11 3 2 5 9 11 6 10 13 11 9 5 
+
+Player 6 draws a 5
+Player 6 Hand: <12, 5>
+Player 6 discards card: 5
+Player 6 Hand: <12>
+8 1 12 1 6 9 8 12 1 3 8 6 10 6 10 7 10 13 13 2 10 3 3 4 2 8 8 11 4 9 12 1 11 3 2 5 9 11 6 10 13 11 9 5 5 
+
+Player 1 draws a 8
+Player 1 Hand: <7, 8>
+Player 1 discards card: 7
+Player 1 Hand: <8>
+1 12 1 6 9 8 12 1 3 8 6 10 6 10 7 10 13 13 2 10 3 3 4 2 8 8 11 4 9 12 1 11 3 2 5 9 11 6 10 13 11 9 5 5 7 
+
+Player 2 draws a 1
+Player 2 Hand: <5, 1>
+Player 2 discards card: 1
+Player 2 Hand: <5>
+12 1 6 9 8 12 1 3 8 6 10 6 10 7 10 13 13 2 10 3 3 4 2 8 8 11 4 9 12 1 11 3 2 5 9 11 6 10 13 11 9 5 5 7 1 
+
+Player 3 draws a 12
+Player 3 Hand: <5, 12>
+Player 3 discards card: 12
+Player 3 Hand: <5>
+1 6 9 8 12 1 3 8 6 10 6 10 7 10 13 13 2 10 3 3 4 2 8 8 11 4 9 12 1 11 3 2 5 9 11 6 10 13 11 9 5 5 7 1 12 
+Player 1 lost round 3
+Player 2 lost round 3
+Player 3 lost round 3
+Player 4 lost round 3
+Player 5 lost round 3
+Player 6 lost round 3
+--------------------------------------------------------
+ROUND4
+--------------------------------------------------------
+DEALER 4 DRAWS TARGET CARD: 13
+DEALER 4 DEALS a 1 TO PLAYER5
+DEALER 4 DEALS a 2 TO PLAYER6
+DEALER 4 DEALS a 9 TO PLAYER1
+DEALER 4 DEALS a 9 TO PLAYER2
+DEALER 4 DEALS a 8 TO PLAYER3
+DEALER 4 DEALS a 2 TO PLAYER4
+
+Player 5 draws a 5
+Player 5 Hand: <1, 5>
+Player 5 discards card: 1
+Player 5 Hand: <5>
+12 8 5 12 4 6 7 9 5 10 3 1 2 6 10 6 3 12 5 10 10 11 5 6 1 11 8 3 7 5 11 8 9 3 1 8 13 1 12 4 10 9 13 11 1 
+
+Player 6 draws a 12
+Player 6 Hand: <2, 12>
+Player 6 discards card: 2
+Player 6 Hand: <12>
+8 5 12 4 6 7 9 5 10 3 1 2 6 10 6 3 12 5 10 10 11 5 6 1 11 8 3 7 5 11 8 9 3 1 8 13 1 12 4 10 9 13 11 1 2 
+
+Player 1 draws a 8
+Player 1 Hand: <9, 8>
+Player 1 discards card: 8
+Player 1 Hand: <9>
+5 12 4 6 7 9 5 10 3 1 2 6 10 6 3 12 5 10 10 11 5 6 1 11 8 3 7 5 11 8 9 3 1 8 13 1 12 4 10 9 13 11 1 2 8 
+
+Player 2 draws a 5
+Player 2 Hand: <9, 5>
+Player 2 discards card: 9
+Player 2 Hand: <5>
+12 4 6 7 9 5 10 3 1 2 6 10 6 3 12 5 10 10 11 5 6 1 11 8 3 7 5 11 8 9 3 1 8 13 1 12 4 10 9 13 11 1 2 8 9 
+
+Player 3 draws a 12
+Player 3 Hand: <8, 12>
+Player 3 discards card: 8
+Player 3 Hand: <12>
+4 6 7 9 5 10 3 1 2 6 10 6 3 12 5 10 10 11 5 6 1 11 8 3 7 5 11 8 9 3 1 8 13 1 12 4 10 9 13 11 1 2 8 9 8 
+
+Player 4 draws a 4
+Player 4 Hand: <2, 4>
+Player 4 discards card: 2
+Player 4 Hand: <4>
+6 7 9 5 10 3 1 2 6 10 6 3 12 5 10 10 11 5 6 1 11 8 3 7 5 11 8 9 3 1 8 13 1 12 4 10 9 13 11 1 2 8 9 8 2 
+Player 1 lost round 4
+Player 2 lost round 4
+Player 3 lost round 4
+Player 4 lost round 4
+Player 5 lost round 4
+Player 6 lost round 4
+--------------------------------------------------------
+ROUND5
+--------------------------------------------------------
+DEALER 5 DRAWS TARGET CARD: 6
+DEALER 5 DEALS a 6 TO PLAYER6
+DEALER 5 DEALS a 3 TO PLAYER1
+DEALER 5 DEALS a 2 TO PLAYER2
+DEALER 5 DEALS a 4 TO PLAYER3
+DEALER 5 DEALS a 2 TO PLAYER4
+DEALER 5 DEALS a 5 TO PLAYER5
+
+Player 6 draws a 1
+Player 6 Hand: <6, 1>
+Player 6 wins round 5 with matching card 6
+
+Player 1 lost round 5
+Player 2 lost round 5
+Player 3 lost round 5
+Player 4 lost round 5
+Player 5 lost round 5
+--------------------------------------------------------
+ROUND6
+--------------------------------------------------------
+DEALER 6 DRAWS TARGET CARD: 5
+DEALER 6 DEALS a 8 TO PLAYER1
+DEALER 6 DEALS a 13 TO PLAYER2
+DEALER 6 DEALS a 1 TO PLAYER3
+DEALER 6 DEALS a 10 TO PLAYER4
+DEALER 6 DEALS a 13 TO PLAYER5
+DEALER 6 DEALS a 6 TO PLAYER6
+
+Player 1 draws a 9
+Player 1 Hand: <8, 9>
+Player 1 discards card: 8
+Player 1 Hand: <9>
+3 12 1 4 5 8 11 8 9 7 10 2 6 8 12 2 11 11 1 3 8 3 12 10 12 6 1 2 7 5 6 5 5 10 1 9 8 3 2 5 10 11 9 4 8 
+
+Player 2 draws a 3
+Player 2 Hand: <13, 3>
+Player 2 discards card: 3
+Player 2 Hand: <13>
+12 1 4 5 8 11 8 9 7 10 2 6 8 12 2 11 11 1 3 8 3 12 10 12 6 1 2 7 5 6 5 5 10 1 9 8 3 2 5 10 11 9 4 8 3 
+
+Player 3 draws a 12
+Player 3 Hand: <1, 12>
+Player 3 discards card: 1
+Player 3 Hand: <12>
+1 4 5 8 11 8 9 7 10 2 6 8 12 2 11 11 1 3 8 3 12 10 12 6 1 2 7 5 6 5 5 10 1 9 8 3 2 5 10 11 9 4 8 3 1 
+
+Player 4 draws a 1
+Player 4 Hand: <10, 1>
+Player 4 discards card: 1
+Player 4 Hand: <10>
+4 5 8 11 8 9 7 10 2 6 8 12 2 11 11 1 3 8 3 12 10 12 6 1 2 7 5 6 5 5 10 1 9 8 3 2 5 10 11 9 4 8 3 1 1 
+
+Player 5 draws a 4
+Player 5 Hand: <13, 4>
+Player 5 discards card: 4
+Player 5 Hand: <13>
+5 8 11 8 9 7 10 2 6 8 12 2 11 11 1 3 8 3 12 10 12 6 1 2 7 5 6 5 5 10 1 9 8 3 2 5 10 11 9 4 8 3 1 1 4 
+
+Player 6 draws a 5
+Player 6 Hand: <6, 5>
+Player 6 wins round 6 with matching card 5
+
+Player 1 lost round 6
+Player 2 lost round 6
+Player 3 lost round 6
+Player 4 lost round 6
+Player 5 lost round 6

@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Run Simulator",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/main.py",
+            "console": "integratedTerminal",
+            "args": [
+                "12",  // average_arrival_rate
+                "0.02",  // average_CPU_service_time
+                "0.06"  // average_Disk_service_time
+            ],
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+ }
